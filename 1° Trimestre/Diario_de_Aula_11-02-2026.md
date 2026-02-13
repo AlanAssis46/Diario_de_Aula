@@ -1,5 +1,12 @@
-## Diario_de_Aula_11-02-2026
+## Avaliação
+A avaliação trimestal será uma prova escrita ou uma avaliação das softskils apresentadas e do ecossistema dos alunos durante o trimestre
+
+## Ementa
+> Modelagem de software orientada a objetos. Conceitos de software, qualidade, requisitos e projeto de software. Notações para registro de modelos orientados a objetos. Processo de requisitos, definições básicas, elicitação, análise, especificação, verificação e validação de requisitos. Modelos e métodos da engenharia de requisitos. Gerência de projetos de engenharia de requisitos. Relação do processo de projeto arquitetural com requisitos.
+>
+
 ---
+
 1) O que as empresas buscam em um profissional?
 2) O que seria APS? Qual atividade seria a primordial?
 3) Soft skills ou habilidades técnicas?
@@ -23,7 +30,7 @@ Problemas comuns: Comunicação
 
 3- As soft skills são mais importantes. As empresas visam buscar pessoas com habilidades pessoais, visto que, do ponto de vista delas, habilidades técnicas são uma obrigação do trabalhador que busca uma vaga. 
 
-4- Ecossistema é um ambiente construído a partir das ações dos indivíduos que nele convivem.
+4- Ecossistema é um ambiente construído a partir das ações dos indivíduos que nele convivem. Se em uma ecossistema de sala de aula existem pessoas que chegam atrasadas e com elas nada acontece, isso pode impactar os demais indivíduos e lavando-os a se atrasarem para se igualar aos outros.
 
 5- Pode-se utilizar a IA como forma de auxílio para a construção de conhecimento. No entanto, é um dever ter o domínio do conteúdo estruturado a partir dela, sempre baseando-se naquilo que você acredita. O limite se dá a partir do momento que é utilizada para
 criar coisas foras do seu conhecimento como uma resposta final.

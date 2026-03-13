@@ -1,6 +1,10 @@
 ## Método de levantamento de dados
 Na possibilidade de ter contato com os clientes, entrevista. Na falta de contato com os clientes, questionário e análise de documentos.
 
+## Justificativa do método escolhido
+Escolhemos o questinário para dar prioridade devido à incerteza de ter contato direto com os stakeholders nos proximos dias. Portanto, preparamos um
+banco de questões para realizar. Além disso, o questinário não possui um limite de perguntas que podem ser feitas, possibilitando levantar um grande volume de informações logo no início.
+
 # Escopo
 - O sistema fará:
   - Cadastro de usuários
@@ -26,5 +30,5 @@ Foi analisado:
 - Biblioteca Virtual (https://plataforma.bvirtual.com.br)
 
 # Material Preparado
-- Lista de perguntas para incluir em um questinário.
+Foi preparada uma lista de questões divididas em tópicos relacionadas à diferentes partes do sistema. 
 

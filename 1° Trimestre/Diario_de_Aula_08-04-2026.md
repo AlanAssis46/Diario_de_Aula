@@ -35,16 +35,21 @@
 ### Fluxo Principal
 - Dado que o livro ainda não está cadastrado no sistema
 - Quando for catalogar o livro
-- Então o sistema deve solicitar pelo título, autor, editora, ano, ISBN, categoria e número de tombo para concluir o cadastro
+- Então o sistema deve solicitar pelo título, autor, editora, ano, ISBN, categoria, condição, valor em caso de dano ou perda e número de tombo para concluir o cadastro
 
 ### Livro já está Cadastrado
 - Dado que o título do livro que está sendo cadastrado já esteja no sistema
 - Quando for realizada a tentativa de cadastro
-- Então o sistema deve informar que o título do livro já está cadastrado e, em seguida, perguntar se deseja adicionar mais uma unidade do título ao sistema (ex: Pequeno principe - 1x Disponível | "Deseja adicionar mais uma unidade ao sistema? sim:não" se sim, atualizar para 2x Disponível)
+- Então o sistema deve aumentar a quantidade de livros com o título cadastrado em uma unidade.
 
-### 
-- Dado que o livro está em más condições 
-- Quando for cadastrar o livro
+### Livro Danificado
+- Dado que o livro está em más condições
+- Quando o livro for cadastrado
+- Então o sistema deve catalogar o livro, porém não deve disponibilizá-lo para empréstimo
+
+
+
+
 
   
 
